@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naturhistorisches Museum
+title: 自然历史博物馆
 date: 2019-06-23
 categories:
   - Austria
