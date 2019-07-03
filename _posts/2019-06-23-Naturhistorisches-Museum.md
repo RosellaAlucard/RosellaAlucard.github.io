@@ -2,6 +2,8 @@
 layout: post
 title: Naturhistorisches Museum
 date: 2019-06-23
+categories:
+  - Austria
 description: Vienna Naturehistory Museum
 image: https://res.cloudinary.com/rosellaalucard/image/upload/v1562175423/R0000059_rujcbr.jpg
 image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1562175425/R0000062_idz4el.jpg
