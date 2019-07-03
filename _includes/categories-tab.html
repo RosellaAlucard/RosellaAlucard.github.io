@@ -24,6 +24,7 @@
             <h2 class="card__header">{{ category }}</h2>
             <p class="card__count">{{ site.categories[category] | size }} Posts</p>
             <span class="card__more">View All</span>
+            {% include category-index.html %}
           </div>
         </a>
       </li>
