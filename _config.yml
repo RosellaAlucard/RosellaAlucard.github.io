@@ -15,7 +15,7 @@ name: Qian-Ze Zhu
 profile_img: https://res.cloudinary.com/rosellaalucard/image/upload/v1562178799/avatar_u6jrpf.jpg
 profile: A second-year undergraduate in Department of Physics, Peking University, China. Love all kinds of beautiful things.
 social:
-  github: RosellaAlucard
+  github: https://github.com/RosellaAlucard
 
 # Build settings
 markdown: kramdown
