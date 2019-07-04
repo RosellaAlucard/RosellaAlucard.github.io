@@ -20,9 +20,10 @@ social:
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - octopress-autoprefixer
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
 compress_html:
   clippings: all
   comments: all
