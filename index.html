@@ -22,11 +22,6 @@ layout: default
       </ul>
     </header>
 
-    {% for category in site.categories %}
-        {% for post in category.first %}<li><a class="sidebar-btn" href="\{\{site.baseurl}}/categories/\{\{ category | first }}">\{\{category.first}}(\{\{category.last.size}})</a></li>
-        {% endfor %}
-    {% endfor %}
-
     <div class="tab">
       <ul itemscope itemtype="http://schema.org/Blog">
 
