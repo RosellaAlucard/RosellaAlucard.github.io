@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "haha"
 date: 2016-02-19
 categories:
   - Juice
