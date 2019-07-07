@@ -143,7 +143,7 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1562175051/R00
 
 ![R0000655](https://res.cloudinary.com/rosellaalucard/image/upload/v1562178664/R0000655_tjvta0.jpg)
 
-![R0000657](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0000657.JPG)
+![R0000657](https://res.cloudinary.com/rosellaalucard/image/upload/v1562178673/R0000657_xacwa0.jpg)
 
 第二层是相见恨晚的绘画馆。
 
@@ -269,6 +269,8 @@ Ecce Homo
 
 但是出来之后看到了梦想中的玫瑰园
 
+有点像海德公园。走着走着，又想到两年前和妈妈一起去英国的时候，不禁心情又低落下来。
+
 ![R0000764](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175080/R0000764_dyafdd.jpg)
 
 ![R0000766](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175078/R0000766_sbbywz.jpg)
@@ -301,6 +303,6 @@ Ecce Homo
 
 ![R0000801](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175093/R0000801_pz2nyp.jpg)
 
-回家用一个冰淇淋安慰一下孤独的自己，唉，一个人的日子也不好过啊。
+回家用一个冰淇淋安慰一下孤独的自己，唉，一个人的日子也不好过。
 
 ![R0000807](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175097/R0000807_vl0rna.jpg)
