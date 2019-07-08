@@ -5,7 +5,7 @@ date: 2019-07-06
 categories:
   - Austria
 description: Schronbrunn Palace & Central Cemetery
-image: https://res.cloudinary.com/rosellaalucard/image/upload/v1562452029/R0001207_ufd1av.jpg
+image: https://res.cloudinary.com/rosellaalucard/image/upload/v1562610051/R0001207_jnralp.jpg
 image-sm:
 ---
 
@@ -109,6 +109,6 @@ image-sm:
 
 就这样站在太阳下，全世界仿佛就只有我和玻尔兹曼两个人，就这样静静地看着这座刻着S=k log W的墓碑。
 
-![R0001207](https://res.cloudinary.com/rosellaalucard/image/upload/v1562452029/R0001207_ufd1av.jpg)
+![R0001207](https://res.cloudinary.com/rosellaalucard/image/upload/v1562610051/R0001207_jnralp.jpg)
 
 也许我以后不做物理了，不记得很多物理公式了，但我永远会记得这个下午，这做墓碑，这个刻在墓碑上的S=k log W.
