@@ -5,7 +5,7 @@ date: 2019-07-11
 categories:
   - Austria
 description: Riesenrad & Danube
-image: https://res.cloudinary.com/rosellaalucard/image/upload/v1562538516/R0001251_r7nwel.jpg
+image: https://res.cloudinary.com/rosellaalucard/image/upload/v1562877997/R0001427_zbxwpn.jpg
 image-sm:
 ---
 
