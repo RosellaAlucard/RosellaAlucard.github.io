@@ -19,7 +19,7 @@ image-sm:
 
 ![R0001226](https://res.cloudinary.com/rosellaalucard/image/upload/v1562538482/R0001226_d5ssk5.jpg)
 
-但是下午去的Albertina博物馆让我非常满意。但看它门口的楼梯，就很别出心裁。
+但是下午去的Albertina博物馆让我非常满意。单看它门口的楼梯，就很别出心裁。
 
 ![R0001236](https://res.cloudinary.com/rosellaalucard/image/upload/v1562538485/R0001236_cesoiv.jpg)
 
