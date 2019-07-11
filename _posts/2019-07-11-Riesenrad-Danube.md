@@ -6,7 +6,7 @@ categories:
   - Austria
 description: Riesenrad & Danube
 image: https://res.cloudinary.com/rosellaalucard/image/upload/v1562877997/R0001427_zbxwpn.jpg
-image-sm:
+image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1562877997/R0001427_zbxwpn.jpg
 ---
 
 今天下班想去看看维也纳最大的摩天轮Riesenrad。
