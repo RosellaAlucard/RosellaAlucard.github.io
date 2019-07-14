@@ -59,7 +59,7 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1563128354/R00
 
 ![R0001472](https://res.cloudinary.com/rosellaalucard/image/upload/v1563128361/R0001472_bb2y26.jpg)
 
-特别喜欢这一副。画家用细腻的笔触描绘出天空中变化莫测的云，只在画面的下方简单地勾勒出大地的轮廓。就好像漫无边际却又可以看到现实的影子。
+特别喜欢这一副。画家用细腻的笔触描绘出天空中变化莫测的云，只在画面的下方简单地勾勒出大地的轮廓。就好像漫无边际却又没有完全脱离现实。
 
 ![R0001473](https://res.cloudinary.com/rosellaalucard/image/upload/v1563128362/R0001473_fdlkju.jpg)
 
