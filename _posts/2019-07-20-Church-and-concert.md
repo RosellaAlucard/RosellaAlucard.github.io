@@ -25,10 +25,4 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1563569750/R00
 
 ![R0001630](https://res.cloudinary.com/rosellaalucard/image/upload/v1563569745/R0001630_bux0fs.jpg)
 
-总感觉他们穿成这样很滑稽，虽然是为了复现莫扎特时代的音乐会，但我还是觉得统一黑色的服装比较正式。
-
-总而言之，除去观众素质+感觉演出有点随便+不发节目单之外，大体也还行，尤其喜欢莫扎特的魔笛中的节选和最后的蓝色多瑙河。
-
 ![R0001624](https://res.cloudinary.com/rosellaalucard/image/upload/v1563569750/R0001624_sahlle.jpg)
-
-![R0001628](https://res.cloudinary.com/rosellaalucard/image/upload/v1563569751/R0001628_nvvfel.jpg)
