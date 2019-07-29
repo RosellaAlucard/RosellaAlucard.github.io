@@ -61,6 +61,8 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1564346267/R00
 
 喝完面前这些，我又要了一杯cocktail, something of pineapple favour with cream. Oh I really love it!!!!! It's the best cocktail I've ever had.
 
+（实在懒得翻译成中文了，不是故意不给猪妈妈看的哈，^ _ ^）
+
 ![R0001761](https://res.cloudinary.com/rosellaalucard/image/upload/v1564346255/R0001761_u99jwi.jpg)
 
 ![R0001764](https://res.cloudinary.com/rosellaalucard/image/upload/v1564346255/R0001764_qwha0c.jpg)

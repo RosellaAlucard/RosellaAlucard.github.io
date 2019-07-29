@@ -19,6 +19,8 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1564352959/R00
 
 终于，做完弥撒从教堂出来，可以呼吸新鲜空气了。
 
+做弥撒的过程不想细说，对于不信教的我来说太痛苦了……
+
 再次走进Cafe Central
 
 ![R0001948](https://res.cloudinary.com/rosellaalucard/image/upload/v1564352942/R0001948_zi0kdk.jpg)
@@ -37,11 +39,11 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1564352959/R00
 
 ![R0001954](https://res.cloudinary.com/rosellaalucard/image/upload/v1564352957/R0001954_xmamsj.jpg)
 
-吃完后我们走到百水公寓，路边别致的小桥
+吃完后我们走到百水公寓，路边别致的小桥让我想起Before Sunrise里下车的第一个场景
 
 ![R0001957](https://res.cloudinary.com/rosellaalucard/image/upload/v1564352955/R0001957_bropuo.jpg)
 
-百水公寓，五彩缤纷，美丽得和童话里的小房子一样，看着蓝天上得白云飘在绿叶间，又仿佛进入了宫崎骏得电影
+百水公寓，五彩缤纷，美丽得和童话里的小房子一样，看着蓝天上的白云漂浮在绿叶间，又仿佛进入了宫崎骏的电影
 
 ![R0001960](https://res.cloudinary.com/rosellaalucard/image/upload/v1564352947/R0001960_e3qqsl.jpg)
 
