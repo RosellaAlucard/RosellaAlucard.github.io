@@ -66,3 +66,11 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1564352959/R00
 ![R0001974](https://res.cloudinary.com/rosellaalucard/image/upload/v1564352941/R0001974_uwcuqm.jpg)
 
 一天下来，两个人真的聊了很多，但是也会比一个人更累一些。夜色已深，不想多写，该睡觉了。
+
+不，有一件事我一定要说的，那就是无论在哪里，学习都是很辛苦的，如果你有追求的话。
+
+我问塞尔维亚的小姐姐，你周末一般干嘛，她说“Study”。
+
+她说，这个周末是她五年多来第一个真正意思上周末。
+
+唉，看来这是一种universal的痛苦啊……
