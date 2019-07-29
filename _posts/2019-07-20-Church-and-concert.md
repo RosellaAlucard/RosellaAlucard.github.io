@@ -9,9 +9,6 @@ image: https://res.cloudinary.com/rosellaalucard/image/upload/v1563662190/R00016
 image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1563662190/R0001650_cnhdov.jpg
 ---
 
-旅行是件好事情。虽然有时你会感到疲倦，有时还会感到失望，不过那里肯定会有“什么东西”。来吧，请你也行动起来，出发去旅行吧。
-——村上春树《假如真有时光机》
-
 今天一大早去圣斯蒂芬教堂。
 
 没想到却在进门之前被一个中世纪打扮的买票的人叫住了。
