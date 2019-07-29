@@ -3,7 +3,7 @@ layout: post
 title: 《城堡》卡夫卡
 date: 2019-07-29
 categories:
-  - Books
+  - Reflections
 description: das schloss
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Franz_Kafka_Das_Schloss.jpg/640px-Franz_Kafka_Das_Schloss.jpg
 image-sm: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Franz_Kafka_Das_Schloss.jpg/640px-Franz_Kafka_Das_Schloss.jpg
