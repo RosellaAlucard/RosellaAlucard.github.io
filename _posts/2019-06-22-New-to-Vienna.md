@@ -39,13 +39,7 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1562175410/R00
 
 街上人很少，街边是古典而富有艺术性的建筑，和英国的差不多，也没有什么树。一个试试我的新相机的好机会。
 
-![R0000033](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175352/R0000033_v7ctk2.jpg)
-
-![R0000035](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0000035.JPG)
-
 ![R0000037](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175017/R0000037_lny2hl.jpg)
-
-![R0000046](https://res.cloudinary.com/rosellaalucard/image/upload/v1562175410/R0000046_llsnpd.jpg)
 
 他们这里很多人养狗。看的出来狗的品种也和国内的大不相同。奥地利的管理非常好，路上所有的狗都必须被绳子拴起来，只有在特定的公园里狗才可以自由地撒欢。
 
