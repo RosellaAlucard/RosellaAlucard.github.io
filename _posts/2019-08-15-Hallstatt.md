@@ -5,8 +5,9 @@ date: 2019-08-15
 categories:
   - Austria
 description: Hallstatt
-image: 
-image-sm: 
+image: https://res.cloudinary.com/rosellaalucard/image/upload/v1566064866/R0002873_nsqhul.jpg
+image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1566064866/R0002873_nsqhul.jpg
+typora-root-url: ..
 ---
 
 事情当然要从我来的第一天说起。Susi告诉我8.15是他们的公休，所以我可以16号再请一天假，连上周末就可以去远一点的地方玩了。善于抓住出去玩的机会的我怎么会放过14号和19号呢！？于是，五天六晚上的奥地利西部之行就这么决定啦！
@@ -15,9 +16,9 @@ image-sm:
 
 空中的云像一朵一朵的棉花糖一样。窗外是整齐的麦田。
 
-![R0002839](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002839.JPG)
+![R0002839](/images/R0002839.JPG)
 
-![R0002843](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002843.JPG)
+![R0002843](/images/R0002843.JPG)
 
 随着天色渐渐变暗，窗外的景色也愈加幽静。尤其是当火车沿着湖边行驶时，我看着点点灯火闪耀在山峦之下，倒映在水光之中，可惜天色太暗，玻璃反光，没能拍出理想的照片。不过，总之，我的心情随着离目的地的接近而愈发激动。
 
@@ -25,7 +26,7 @@ image-sm:
 
 一下车，我便看到一轮明亮的圆月挂在山峰上，寒冷随着夜色在寂静中涌来。
 
-![IMG_E8438](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_E8438.JPG)
+![IMG_E8438](/images/IMG_E8438.JPG)
 
 小镇果然是小镇，夜晚，又黑又冷，我独自一人走在小路上，心里默默插下再也不订晚上的火车的flag。大约十分钟之后，终于抵达了旅馆。我订的是青年旅馆，只有混住间，可是万万没有料到，竟然连浴室都是mixed……
 
@@ -35,23 +36,23 @@ image-sm:
 
 早上出门才看清小镇的真实面目。Bad Goisern坐落在山脚下，一出门便看到了云雾缭绕的远山。天气晴好，心情激荡。
 
-![IMG_E8442](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_E8442.JPG)
+![IMG_E8442](/images/IMG_E8442.JPG)
 
-![IMG_E8443](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_E8443.JPG)
+![IMG_E8443](/images/IMG_E8443.JPG)
 
-![IMG_E8444](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_E8444.JPG)
+![IMG_E8444](/images/IMG_E8444.JPG)
 
 终于！终于有一天！我也住到欧洲的山脚下的小镇里了！
 
 敲开心的在路边的咖啡厅里吃早餐
 
-![R0002847](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002847.JPG)
+![R0002847](/images/R0002847.JPG)
 
 吃完光速跑向车站赶巴士。路边景色超美。
 
-![R0002848](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002848.JPG)
+![R0002848](/images/R0002848.JPG)
 
-![R0002850](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002850.JPG)
+![R0002850](/images/R0002850.JPG)
 
 在路边山林穿行十几分钟后到达了Hallstatt。
 
@@ -59,109 +60,109 @@ image-sm:
 
 理光GR2原片直出。
 
-![R0002851](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002851.JPG)
+![R0002851](/images/R0002851.JPG)
 
-![R0002852](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002852.JPG)
+![R0002852](/images/R0002852.JPG)
 
 由于到的早，人还不是很多。
 
-![R0002854](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002854.JPG)
+![R0002854](/images/R0002854.JPG)
 
-![R0002859](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002859.JPG)
+![R0002859](/images/R0002859.JPG)
 
-![R0002858](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002858.JPG)
+![R0002858](/images/R0002858.JPG)
 
 天鹅在湖边梳理羽毛，花猫在门前打盹，要是没有周围的喧闹声，真的是一幅岁月静好的景象。
 
-![R0002861](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002861.JPG)
+![R0002861](/images/R0002861.JPG)
 
-![R0002862](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002862.JPG)
+![R0002862](/images/R0002862.JPG)
 
 随手一拍都是一张明信片。
 
-![R0002864](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002864.JPG)
+![R0002864](/images/R0002864.JPG)
 
-![R0002866](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002866.JPG)
+![R0002866](/images/R0002866.JPG)
 
 话不多说，先打卡网红明信片角度
 
-![R0002873](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002873.JPG)
+![R0002873](/images/R0002873.JPG)
 
-![IMG_8459](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_8459.JPG)
+![IMG_8459](/images/IMG_8459.JPG)
 
 充满仙气的自然景观和湖边彩色的、挂满鲜花地小房子完美的结合在一起，打造出“世界最美小镇”Hallstatt。
 
-![R0002865](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002865.JPG)
+![R0002865](/images/R0002865.JPG)
 
-![R0002874](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002874.JPG)
+![R0002874](/images/R0002874.JPG)
 
-![R0002896](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002896.JPG)
+![R0002896](/images/R0002896.JPG)
 
 小镇地中心——集市广场
 
-![R0002899](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002899.JPG)
+![R0002899](/images/R0002899.JPG)
 
 标志性建筑，尖顶教堂
 
-![R0002868](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002868.JPG)
+![R0002868](/images/R0002868.JPG)
 
-![R0002929](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002929.JPG)
+![R0002929](/images/R0002929.JPG)
 
-![R0002895](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002895.JPG)
+![R0002895](/images/R0002895.JPG)
 
 到处都是五颜六色地鲜花，在集市广场仰望天空时，还看到一个老爷爷给整理床边的花。
 
-![R0002880](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002880.JPG)
+![R0002880](/images/R0002880.JPG)
 
-![R0002897](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002897.JPG)
+![R0002897](/images/R0002897.JPG)
 
-![R0002937](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002937.JPG)
+![R0002937](/images/R0002937.JPG)
 
-![R0002938](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002938.JPG)
+![R0002938](/images/R0002938.JPG)
 
-![R0002940](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002940.JPG)
+![R0002940](/images/R0002940.JPG)
 
-![R0002942](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002942.JPG)
+![R0002942](/images/R0002942.JPG)
 
-![R0002925](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002925.JPG)
+![R0002925](/images/R0002925.JPG)
 
-![R0002911](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002911.JPG)
+![R0002911](/images/R0002911.JPG)
 
 赶在天气晴好游人稀少的时候赶快多照几张。
 
-![R0002881](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002881.JPG)
+![R0002881](/images/R0002881.JPG)
 
-![R0002883](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002883.JPG)
+![R0002883](/images/R0002883.JPG)
 
 岸边湖水清澈见底，越往中心延伸便越蓝，绿色与蓝色的连接之处妙不可言，不知道上帝神奇的调色盘是如何把这两种不同的颜色如此融洽和谐的连接起来的。
 
-![R0002885](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002885.JPG)
+![R0002885](/images/R0002885.JPG)
 
 单看风景的话，其实和泸沽湖很像。
 
-![R0002884](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002884.JPG)
+![R0002884](/images/R0002884.JPG)
 
-![R0002906](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002906.JPG)
+![R0002906](/images/R0002906.JPG)
 
-![R0002907](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002907.JPG)
+![R0002907](/images/R0002907.JPG)
 
 但这里更有人气，小镇上人来人往，湖中的小船、天鹅、野鸭也不闲着。
 
-![R0002886](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002886.JPG)
+![R0002886](/images/R0002886.JPG)
 
-![R0002887](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002887.JPG)
+![R0002887](/images/R0002887.JPG)
 
-![R0002892](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002892.JPG)
+![R0002892](/images/R0002892.JPG)
 
 在尖顶教堂靠近湖边的公园里晃晃秋千。
 
 越荡越高越荡越高，我的心也随着身体一起飞起来了。
 
-![R0002890](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002890.JPG)
+![R0002890](/images/R0002890.JPG)
 
 头顶是蓝的发光的天空，右手边是美的不可描述的湖景，左手边是安静美好的尖顶教堂，简直是世界上最幸福的事情。
 
-![R0002889](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002889.JPG)
+![R0002889](/images/R0002889.JPG)
 
 Hallstatt真的超级小，就一条路走完十分钟。打完卡，我又掉过头来，打算仔细欣赏一下这个小镇。
 
@@ -169,181 +170,181 @@ Hallstatt真的超级小，就一条路走完十分钟。打完卡，我又掉�
 
 有一个集市，挺热闹。Apfelstrudal看起来很好吃，因为苍蝇蜜蜂也这么觉得。
 
-![R0002900](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002900.JPG)
+![R0002900](/images/R0002900.JPG)
 
 看到在半山腰的树林中若隐若现的客栈，我不禁明白了为什么这里的酒店一个人一晚上一两千，住在这里该有多幸福！
 
-![R0002902](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002902.JPG)
+![R0002902](/images/R0002902.JPG)
 
 路边除了餐厅就是卖盐、肥皂、小饰品的商店。
 
-![R0002903](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002903.JPG)
+![R0002903](/images/R0002903.JPG)
 
-![R0002904](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002904.JPG)
+![R0002904](/images/R0002904.JPG)
 
-![R0002910](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002910.JPG)
+![R0002910](/images/R0002910.JPG)
 
-![R0002908](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002908.JPG)
+![R0002908](/images/R0002908.JPG)
 
-![R0002926](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002926.JPG)
+![R0002926](/images/R0002926.JPG)
 
-![R0002943](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002943.JPG)
+![R0002943](/images/R0002943.JPG)
 
 中午了，由于手机没有信号，于是便在靠近湖边的一个带wifi的餐厅坐下。
 
-![R0002912](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002912.JPG)
+![R0002912](/images/R0002912.JPG)
 
-![R0002915](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002915.JPG)
+![R0002915](/images/R0002915.JPG)
 
 美景美食美酒
 
-![R0002914](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002914.JPG)
+![R0002914](/images/R0002914.JPG)
 
-![R0002921](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002921.JPG)
+![R0002921](/images/R0002921.JPG)
 
-![R0002924](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002924.JPG)
+![R0002924](/images/R0002924.JPG)
 
 烤鳟鱼片配白葡萄酒简直完美。几乎醉在这深蓝的湖水中。
 
-![R0002922](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002922.JPG)
+![R0002922](/images/R0002922.JPG)
 
 吃完，打算乘两点的游船到河对岸的Obertraun小镇。多出了一个多小时，可以去高处的教堂看看。
 
-![R0002932](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002932.JPG)
+![R0002932](/images/R0002932.JPG)
 
 相比起童话般的布拉格红色的屋顶，Hallstatt则显得素净很多，大概这就是童话与天堂的区别吧。站在高处俯瞰，小镇的屋顶都是清一色的深灰，房屋也基本是白色、浅灰、米色的墙壁，和远处的水墨画相得益彰。
 
-![R0002936](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002936.JPG)
+![R0002936](/images/R0002936.JPG)
 
 就站在教堂外的花园墓地边，什么也不做什么也不想，就看着这人间难得的美景，仿佛融入这美景中，只能感叹“此景只有天上有，人间能得几回见”。
 
-![R0002935](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002935.JPG)
+![R0002935](/images/R0002935.JPG)
 
-![R0002934](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002934.JPG)
+![R0002934](/images/R0002934.JPG)
 
 虽说站在墓地中，但是被鲜花簇拥着，一点也不觉得瘆人，每一座墓地都有着精巧独特的设计，简直浪漫到了极致。
 
 快到时间了，坐在清澈见底的湖边，等着邮轮。看着湖中心的墨绿随着波浪一点一点地卷来，又恰到好处地停留在几米开外。当然，湖水也是惊人的清凉。
 
-![R0002945](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002945.JPG)
+![R0002945](/images/R0002945.JPG)
 
-![R0002947](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002947.JPG)
+![R0002947](/images/R0002947.JPG)
 
 上邮轮，在远处欣赏Hallstatt的全景依旧迷人。
 
-![R0002948](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002948.JPG)
+![R0002948](/images/R0002948.JPG)
 
-![R0002950](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002950.JPG)
+![R0002950](/images/R0002950.JPG)
 
-![R0002951](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002951.JPG)
+![R0002951](/images/R0002951.JPG)
 
-![R0002954](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002954.JPG)
+![R0002954](/images/R0002954.JPG)
 
-![R0002958](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002958.JPG)
+![R0002958](/images/R0002958.JPG)
 
-![R0002964](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002964.JPG)
+![R0002964](/images/R0002964.JPG)
 
 邮轮缓缓行驶在湖水中央，我仿佛被我最爱的碧绿包围
 
-![R0002965](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002965.JPG)
+![R0002965](/images/R0002965.JPG)
 
-![R0002966](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002966.JPG)
+![R0002966](/images/R0002966.JPG)
 
 和这美得如梦境一般的景色同样梦幻的还有投在水中拉的长长的倒影。倒映在蓝绿色湖水中的景色就像加了一层滤镜一样，还时时随着微风飘荡。
 
-![R0002967](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002967.JPG)
+![R0002967](/images/R0002967.JPG)
 
-![R0002968](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002968.JPG)
+![R0002968](/images/R0002968.JPG)
 
 不久便到了Obertraun。
 
 然而下船后却让我有些失望。清静倒是真——根本没几个人影，但也没啥好看的啊。有点意思的是舶船的小屋，建在水上。
 
-![R0002970](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002970.JPG)
+![R0002970](/images/R0002970.JPG)
 
 才下午三点，无所事事的我坐在湖边的长凳上，思考接下来的去处。
 
-![R0002971](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002971.JPG)
+![R0002971](/images/R0002971.JPG)
 
 坐火车去Hallstatt Bahnhof看看？
 
 铁轨顺着小路延伸向远方。
 
-![R0002973](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002973.JPG)
+![R0002973](/images/R0002973.JPG)
 
 Obertraun作为住处确实很舒适，修理的整整齐齐的草坪，精心装饰的木雕，盛开的鲜花。鲜有人迹，静谧美好，不远处树荫下的吊床轻轻晃动。一切在远山的衬托下更加精致。
 
-![R0002973](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002973.JPG)
+![R0002973](/images/R0002973.JPG)
 
-![R0002974](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002974.JPG)
+![R0002974](/images/R0002974.JPG)
 
-![R0002975](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002975.JPG)
+![R0002975](/images/R0002975.JPG)
 
 火车几分钟就到了Hallstatt Bahnhof
 
 这个车站真的小，旁边也没有什么好玩的。于是决定去Bad Ischl转转。然而下一趟车还有一个半小时，我只好顺着小路来到湖边，正好可以远眺Hallstatt的全景。
 
-![R0002979](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002979.JPG)
+![R0002979](/images/R0002979.JPG)
 
-![R0002982](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002982.JPG)
+![R0002982](/images/R0002982.JPG)
 
-![R0002977](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002977.JPG)
+![R0002977](/images/R0002977.JPG)
 
 没过多久还下起了雨，不知道是云是雾，低得似乎伸手就可以抓住。
 
-![IMG_E8486](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_E8486.JPG)
+![IMG_E8486](/images/IMG_E8486.JPG)
 
 到了Bad Ischl又是另一番景象。嗯……怎么说呢，一出车站就给人一种更加现代的感觉
 
-![R0003025](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003025.JPG)
+![R0003025](/images/R0003025.JPG)
 
 小镇里可爱的小巷子、精美的雕塑也是目不暇接。
 
-![R0002989](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002989.JPG)
+![R0002989](/images/R0002989.JPG)
 
-![R0002990](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002990.JPG)
+![R0002990](/images/R0002990.JPG)
 
 今天大概是节日，头顶彩旗飘扬。
 
-![R0002991](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002991.JPG)
+![R0002991](/images/R0002991.JPG)
 
 路过一个公园，正在举办露天音乐节，欢乐的气氛、喧闹的人生驱散的阴天的压抑感。
 
-![R0002994](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002994.JPG)
+![R0002994](/images/R0002994.JPG)
 
-![R0002995](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002995.JPG)
+![R0002995](/images/R0002995.JPG)
 
 鲜叶的小房子下走着穿着奥地利传统服饰的老人、少女，渲染出童话的感觉。
 
-![R0002997](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002997.JPG)
+![R0002997](/images/R0002997.JPG)
 
-![R0002998](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0002998.JPG)
+![R0002998](/images/R0002998.JPG)
 
-![R0003001](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003001.JPG)
+![R0003001](/images/R0003001.JPG)
 
 我在小镇中漫无目的的走着，来到了横穿Bad Ischl的小河边。果然河是一个小镇的灵气。
 
-![R0003002](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003002.JPG)
+![R0003002](/images/R0003002.JPG)
 
-![R0003008](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003008.JPG)
+![R0003008](/images/R0003008.JPG)
 
-![R0003009](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003009.JPG)
+![R0003009](/images/R0003009.JPG)
 
-![R0003016](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003016.JPG)
+![R0003016](/images/R0003016.JPG)
 
 青翠的草皮、鲜红的花朵、黛绿的远山，以及时晴时雨的天无不让河岸更加俏皮。
 
-![R0003012](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003012.JPG)
+![R0003012](/images/R0003012.JPG)
 
-![IMG_E8499](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\IMG_E8499.JPG)
+![IMG_E8499](/images/IMG_E8499.JPG)
 
 想必河岸边的“湖景房”住起来一定很舒服。
 
-![R0003013](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003013.JPG)
+![R0003013](/images/R0003013.JPG)
 
 咕咕咕……咕咕咕
 
-![R0003015](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003015.JPG)
+![R0003015](/images/R0003015.JPG)
 
 看了这么多小镇，我不禁思考“What makes a lovely little town?”
 
@@ -355,9 +356,9 @@ Obertraun作为住处确实很舒适，修理的整整齐齐的草坪，精心�
 
 之后呢，路边还必须要有色彩斑斓的三角顶小屋，挂满鲜花的那种，在窗檐上，大门前，草坪上，栏杆间……大红色的、粉色的、天蓝色的、明黄色的、紫色的……最好呢，还能有爬满墙壁的绿植，衬托得小屋更加可爱。哦对，更好的情况是，小屋上还有精致的、有设计感的镂空LOGO，就像这样的
 
-![R0003019](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003019.JPG)
+![R0003019](/images/R0003019.JPG)
 
-![R0003020](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003020.JPG)
+![R0003020](/images/R0003020.JPG)
 
 当然，周围的小屋最好是住宅与商店混着。倘若全是住宅呢，则显得有些清冷，倘若全是商店呢，则过于商业化。商店里最好卖的是精心设计过的装饰品、或者外形精美小巧的零食。
 
@@ -371,35 +372,35 @@ Obertraun作为住处确实很舒适，修理的整整齐齐的草坪，精心�
 
 诶，想了这么多，该从Bad Ischl回去了。车站不远处的水池被花儿簇拥着。
 
-![R0003022](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003022.JPG)
+![R0003022](/images/R0003022.JPG)
 
 坐在车站等车的时候，一个看上去七十多岁穿着他们传统连衣裙的老奶奶走过来坐在我旁边。我们聊起天来。想到一个多月前在银行碰到的老奶奶，不禁感叹他们这里的英语普及度可真是高啊。她说她在等她的孙女，从维也纳过来。巧的是，我等待的列车开门便是她的孙女从车上下来。我坐在车窗边，看着她们相拥，我向着老奶奶笑着挥挥手说了再见。
 
 看着这幸福的团聚，心中感动之余还是有些难受，我也多么希望能在这美丽的小镇和家人团聚啊！
 
-![R0003024](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003024.JPG)
+![R0003024](/images/R0003024.JPG)
 
 十几分钟便回到了Bad Goisern。走过昨晚把我吓得半死的小路，这次却显得格外的亲切了。
 
-![R0003026](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003026.JPG)
+![R0003026](/images/R0003026.JPG)
 
-![R0003028](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003028.JPG)
+![R0003028](/images/R0003028.JPG)
 
-![R0003029](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003029.JPG)
+![R0003029](/images/R0003029.JPG)
 
 火车上坐在我后面的帅气的小哥哥（hhhh）
 
-![R0003027](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003027.JPG)
+![R0003027](/images/R0003027.JPG)
 
 阳光从树叶的间隙洒下来，在空中织起一张金色的网。
 
-![R0003030](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003030.JPG)
+![R0003030](/images/R0003030.JPG)
 
 晚上，我追寻着芝士无法描述的香气来到了楼下的一家餐厅。吃的时候一时爽，等吃完肚子鼓起来的时候才知道悔恨呐。
 
-![R0003031](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003031.JPG)
+![R0003031](/images/R0003031.JPG)
 
-![R0003032](C:\Users\zhuqi\OneDrive\桌面\miscellany\Austria\R0003032.JPG)
+![R0003032](/images/R0003032.JPG)
 
 一个披萨下去实在胀得难受，打算出去走走，然而没走多久就看到三个混混似的少年路过的时候向我叫了些啥，吓得我又躲回了旅馆。
 
