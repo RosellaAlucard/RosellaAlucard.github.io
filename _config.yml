@@ -45,3 +45,7 @@ sass:
   style: compressed
 
 post_asset_folder: true
+
+# Comments
+comment:
+        disqus: https://rosellaalucard.github.io/
