@@ -10,7 +10,7 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1566240534/R00
 typora-root-url: ..
 ---
 
-今天由于行程安排失误，过得实在不愉快。
+今天由于行程安排失误，过得实在不愉快。<!--more-->
 
 早晨坐缆车爬到山顶。白雾霭霭，雾大之处伸手不见五指。
 
