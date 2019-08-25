@@ -95,8 +95,6 @@ image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1562178437/R00
 
 维也纳大学真的好小啊，不过人倒是挺多的，好多小孩子。
 
-![R0000252](https://res.cloudinary.com/rosellaalucard/image/upload/v1562178466/R0000252_dzabfr.jpg)
-
 ![R0000263](https://res.cloudinary.com/rosellaalucard/image/upload/v1562178468/R0000263_jugf3p.jpg)
 
 ![R0000265](https://res.cloudinary.com/rosellaalucard/image/upload/v1562178469/R0000265_uw6u5x.jpg)
