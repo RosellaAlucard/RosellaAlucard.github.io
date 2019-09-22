@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 对大学四年的忠告
-date: 2019-07-26
+title: 在2019北京大学物理学院开学典礼上的演讲
+date: 2019-09-07
 categories:
   - Reflections
-description: some reflections
+description: open ceremony
 image: https://res.cloudinary.com/rosellaalucard/image/upload/v1569169847/ceremony_w4bobi.jpg
 image-sm: https://res.cloudinary.com/rosellaalucard/image/upload/v1569169847/ceremony_w4bobi.jpg
 ---
